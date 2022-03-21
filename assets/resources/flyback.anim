@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flyback",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 20,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "b2aceba1-b965-4ded-9932-de861e0eb24d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5bed14f1-335c-43d9-8cd3-d48b399e1226"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "ff39b3e6-f4de-418e-a006-0374c73d3b8b"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "5bed14f1-335c-43d9-8cd3-d48b399e1226"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b2aceba1-b965-4ded-9932-de861e0eb24d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

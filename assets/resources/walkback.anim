@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "walkback",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.15,
+  "sample": 20,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b074e085-d24b-419b-affc-aeba092cf32f"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "8aca2555-a6ba-4c22-b543-69cfbdf477c8"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "9911d4dd-08a7-40d5-9b69-c9f13be32584"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
